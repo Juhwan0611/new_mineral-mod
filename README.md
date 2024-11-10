@@ -3,8 +3,14 @@
 
 chat GPT의 도움을 받아 제작 하였습니다.
 
+텍스쳐는 모두 집적 제작하였습니다.
+
+
 
 It hasn't been long since I studied Java,
 Originally, I had a history of studying Python and coding, so I could understand the code to some extent.
 
 Made with the help of chat GPT.
+
+
+I made all the textures (.png) that were made myself.
